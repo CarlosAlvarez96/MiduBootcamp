@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/notes 
+Content-Type: application/json
+
+{
+  "title": "ea mlknkoleskhbkbhktias quasi exercitationem repellat qui ipsa sit aut",
+  "body": "et lkniusto lknlnksed quo iure"
+}
